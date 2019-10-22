@@ -21,7 +21,7 @@ def buscarPalabra(txt):
     return pri==ult    
         
 def main():
-    txt = "hola, que + tal, hola"
+    txt = "hola, qUe + Tal, hola"
     print(buscarPalabra(txt))
     
 main()
