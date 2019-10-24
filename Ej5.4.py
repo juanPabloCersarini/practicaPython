@@ -24,7 +24,7 @@ def evaluar(texto):
             palabraLarga=pal
             palMax=len(palabraLarga)
         cantPal+=1
-    print(cantPal, " ",palabraCorta, " ",palabraLarga)
+    print("Cantidad de palabras: ",cantPal, "\nLa mas corta: ",palabraCorta, "\nLa mas larga: ",palabraLarga)
 def main():
     texto=input("Ingresar un texto: ")
     evaluar(texto)
