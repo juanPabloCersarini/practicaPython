@@ -11,6 +11,6 @@ def histograma(txt):
         print(car1, "-->" ,conCar)
         
 def main():
-    histograma("hola que haces como estas")
+    histograma("hola como estas")
     
 main()
