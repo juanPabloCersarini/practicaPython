@@ -17,7 +17,7 @@ def minletraRep(txt):
     print(carMin,"->",conCarMin)
     
 def main():
-    txt="aaabbbbbbbbcccccccccccccccccc"
+    txt="aaabbbbbbbbcccccccccccccc"
     minletraRep(txt)
     
 main()
